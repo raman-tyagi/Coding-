@@ -1,2 +1,2 @@
-# cpp_project1
-# Beginning with the concept of CPP 
+# First CPP program
+# Hello world
