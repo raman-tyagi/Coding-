@@ -543,7 +543,5 @@ int main(){
     
 }*/
 
-//POINTERS 
-
 
 
